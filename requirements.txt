@@ -1,0 +1,4 @@
+Flask==2.0.2
+transformers==4.12.0
+sentence-transformers==2.1.0
+summarizer==0.0.7
